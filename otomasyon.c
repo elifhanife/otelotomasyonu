@@ -1,8 +1,3 @@
-//Otel Otomasyonu
-//191180016 Elif Hanife AYDOGAN
-//191180024 Bahadir BOZKURT
-//191180090 Cagla YUCE
-
 #include <ctype.h> //kutuphaneler
 #include <locale.h>
 #include <stdio.h>
